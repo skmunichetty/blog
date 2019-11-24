@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/blog"
-url: "/blog"
+url: "https://skmunichetty.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
