@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
-url: "/blog"
+baseurl: ""
+url: ""
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
